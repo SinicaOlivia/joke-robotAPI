@@ -1,0 +1,7 @@
+https://sv443.net/jokeapi/v2/
+(copy url)
+
+https://www.voicerss.org/sdk/javascript.aspx
+(download voicerss.js)
+
+VoiceRSS-- API key: 5ff4b1b6ab8143f488a977bc3a2f2a9c
